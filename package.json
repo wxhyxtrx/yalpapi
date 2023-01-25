@@ -1,0 +1,23 @@
+{
+  "name": "yalpapi",
+  "version": "1.0.0",
+  "description": "yalp api search business",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wxhyxtrx/yalpapi.git"
+  },
+  "keywords": [
+    "yalp",
+    "api"
+  ],
+  "author": "Wahyu Tricahyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wxhyxtrx/yalpapi/issues"
+  },
+  "homepage": "https://github.com/wxhyxtrx/yalpapi#readme"
+}
