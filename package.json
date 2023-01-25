@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/wxhyxtrx/yalpapi/issues"
   },
-  "homepage": "https://github.com/wxhyxtrx/yalpapi#readme"
+  "homepage": "https://github.com/wxhyxtrx/yalpapi#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
